@@ -1,0 +1,15 @@
+{
+  "name": "whiteboard_backend",
+  "version": "1.0.0",
+  "description": "backend services for whiteboard app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nonish",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.2"
+  }
+}
